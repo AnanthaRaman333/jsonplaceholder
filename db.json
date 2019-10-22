@@ -1,8 +1,8 @@
 {
   "localdiscovery" : {
     "serverurl": "https://cnsaas.ssdevrd.com",
-    "gid": "ka"
-    "un": "ka"
+    "gid": "ka",
+    "un": "ka",
     "pw": "ka"
   }
 }
